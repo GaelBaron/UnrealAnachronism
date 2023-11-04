@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_AO.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_BC.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_M.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_N.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_R.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/Shotgun.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Blueprint/BP_Bullet.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ThirdPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Levels/Ourmap.umap",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Blueprint/BP_Enemy.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Animations/ABP_Enemy.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Blueprint/BP_Platform.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/Animations/EnemyBlendSpace1D.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ShotgunAnimations/ABP_Shotgun.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ShotgunAnimations/ShotgunBlendSpace1D.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/NagaraSystem/NS_Damage.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/ShotgunAnimations/ShotgunBlindSpace1D.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_Barrel_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_SafetyRight_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_SafetyLeft_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_Trigger_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_EjectorBottom_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_Triggerholder_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_EjectorTop_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_BarrelHolder_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_BarrelPump_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_Grip_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_Body_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_StockPlastic_Lp.uasset",
+				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/source/Shotgun_StockWood_Lp.uasset"
+			]
+		}
+	]
+}
