@@ -1,0 +1,6 @@
+2023/11/17-13:06:00.132 397c Creating DB C:/Users/theau/Documents/Code/UnrealAnachronism/UnrealAnachronism/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/17-13:06:00.159 397c Reusing MANIFEST C:/Users/theau/Documents/Code/UnrealAnachronism/UnrealAnachronism/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/17-13:08:51.176 819c Level-0 table #5: started
+2023/11/17-13:08:51.209 819c Level-0 table #5: 1167 bytes OK
+2023/11/17-13:08:51.216 819c Delete type=0 #3
+2023/11/17-13:08:51.216 819c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
