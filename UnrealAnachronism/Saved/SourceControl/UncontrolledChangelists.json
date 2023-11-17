@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Utils/BattleWizardPolyart/BP/BP_Mage.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Utils/Goblin/BP/WBP_Goblin.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Utils/Goblin/BP/BP_Goblin.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Menu/PauseMenu.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Utils/Pickup_item/BP_PickupItem.uasset",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Levels/Map2.umap",
+				"C:/Users/1St4b/Documents/repo/UnrealAnachronism/UnrealAnachronism/Content/Utils/Pickup_item/NS_Pickup.uasset",
 				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_AO.uasset",
 				"C:/Users/baron/Documents/Unreal Projects/UnrealAnachronism/Content/shotgun/textures/DefaultMaterial_BC.uasset",
